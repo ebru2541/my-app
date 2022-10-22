@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "homepage": "https://ebru2541.github.io/random-user-app",
+  "name": "random-user-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
