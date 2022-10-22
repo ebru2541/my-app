@@ -17,3 +17,15 @@ SOLUTION
 ├── package.json
 |└── README.md
 └── yarn.lock
+
+
+
+
+
+
+
+
+
+
+
+https://ebru2541.github.io/random-user-app/
