@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.container {
+  margin: 5rem;
+  background-image: linear-gradient(
+    to top,
+    #bdc2e8 0%,
+    #bdc2e8 1%,
+    #e6dee9 100%
+  );
+  padding: 2rem;
+  width: 20rem !important;
+  height: 35rem;
+  border-radius: 3rem;
+  box-shadow: rgba(90, 66, 103, 0.4) 5px 5px, rgba(107, 84, 113, 0.3) 10px 10px,
+    rgba(106, 64, 106, 0.2) 15px 15px, rgba(105, 66, 119, 0.1) 20px 20px,
+    rgba(138, 110, 149, 0.05) 25px 25px;
+}
+img {
+  border-radius: 75px;
+}
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.img img {
+  width: 150px;
+}
+.email {
+  margin-right: 1rem;
+}
